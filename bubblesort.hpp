@@ -1,7 +1,3 @@
-//
-// Created by zsantorowska on 13.11.19.
-//
-
 #ifndef SHELLSORT_CPP_BUBBLESORT_HPP
 #define SHELLSORT_CPP_BUBBLESORT_HPP
 
